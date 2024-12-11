@@ -26,6 +26,7 @@ write_words(10, 'example1.txt')
 write_words(30, 'example2.txt')
 write_words(200, 'example3.txt')
 write_words(100, 'example4.txt')
+
 print(f'Работа функций: {elapsed_time:.2f} секунд')
 
 elapsed_time = 0
